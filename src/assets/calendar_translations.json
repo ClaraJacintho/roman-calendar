@@ -1,0 +1,37 @@
+{
+    "monthNames":{
+        "1": "Ianuarias",
+        "2": "Februarias",
+        "3":"Martias",
+        "4":"Apriles",
+        "5":"Maias",
+        "6":"Iunias",
+        "7":"Iulias",
+        "8":"Augustas",
+        "9":"Septembres",
+        "10":"Octobres",
+        "11":"Novembres",
+        "12":"Decembres"
+    },
+
+    "dayNames":{
+        "18":"Ante Diem Undevicesimum",
+        "17":"Ante Diem Duodevicesimum",
+        "16":"Ante Diem Septimum Decimum",
+        "15":"Ante Diem Sextum Decimum",
+        "14":"Ante Diem Quintum Decimum",
+        "13":"Ante Diem Quartum Decimum",
+        "12":"Ante Diem Tertium Decimum",
+        "11":"Ante Diem Duodecimum",
+        "10":"Ante Diem Undecimum",
+        "9":"Ante Diem Decimum",
+        "8":"Ante Diem Nonum",
+        "7":"Ante Diem Octavum",
+        "6":"Ante Diem Septimum",
+        "5":"Ante Diem Sextum",
+        "4":"Ante Diem Quintum",
+        "3":"Ante Diem Quartum",
+        "2":"Ante Diem Tertium",
+        "1":"Pridie"
+    }
+}

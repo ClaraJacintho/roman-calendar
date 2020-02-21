@@ -1,0 +1,26 @@
+[
+ {
+     "months": [3, 5, 7, 10],
+     "days": 31,
+     "nonis": 7,
+     "idibus": 15
+ },
+ {
+    "months": [1, 8, 12],
+    "days": 31,
+    "nonis": 5,
+    "idibus": 13
+},
+{
+    "months": [4, 6, 9, 11],
+    "days": 30,
+    "nonis": 5,
+    "idibus": 13
+},
+{
+    "months": [2],
+    "days": 28,
+    "nonis": 5,
+    "idibus": 13
+}
+]
